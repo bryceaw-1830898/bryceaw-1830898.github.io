@@ -1,0 +1,17 @@
+body{
+    background-image: url("background.jpg");
+
+    color: white;
+
+    font-family: "Verdana", Geneva, sans-serif;
+
+    border:green;
+    border-style:dotted;
+    border-width:5px;
+    border-radius: 20px;
+}
+
+img {
+    float:right;
+
+}
